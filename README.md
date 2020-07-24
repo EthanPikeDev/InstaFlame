@@ -8,7 +8,7 @@ changes just as it would on netflix.
 
 
 # Demo:
-![DemoGIF](https://s7.gifyu.com/images/InstaFlame.gif)
+![DemoGIF](https://s7.gifyu.com/images/insdemo.gif)
 
 [Live Preview](https://ethaninstaflame.herokuapp.com/)
 
