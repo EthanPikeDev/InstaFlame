@@ -18,7 +18,7 @@ const transporter = nodemailer.createTransport(
   })
 );
 
-//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
+
 
 /*
 //protected route when user is logged in
