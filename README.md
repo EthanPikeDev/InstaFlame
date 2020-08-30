@@ -2,9 +2,7 @@
 
 # Summary: 
 
-This is a simple netflix clone app built using React and the TMDB API. React-Youtube and movieTrailer were also used for the trailers in the final version in the app.
-The user can browse the shows on the netflix clone and upon click they will be served a trailer. All the titles get pulled from the API and upon refresh the banner on top 
-changes just as it would on netflix.
+This is a simple instagram clone using the MERN stack. Users can sign up, log in, follow, unfollow, like, comment and more.
 
 
 # Demo:
